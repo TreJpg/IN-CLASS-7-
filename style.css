@@ -1,31 +1,38 @@
 
 * {
-  font-family: sans-serif;
+  font-family:sans-serif;
   margin: 0;
   padding: 0;
-  color: black;
-  font-size: 19px;
+  color black; 
+  font-size:17px;
 }
+
+
 
 h1 {
   font-size: 40px;
+  color: black;
 }
 
 h2 {
   color: lightblue;
 }
 
+
 img {
   width: 100vw;
   height: auto;
+
 }
+
 
 .cap {
   color: black;
-}
+
 
 a:link {
   color: lightblue;
+  text-decoration: none; 
 }
 
 a:visited {
@@ -34,14 +41,16 @@ a:visited {
 
 a:hover {
   color: indigo;
+  text-decoration: underline; 
 }
 
-a:active{
+a:active {
   color: grey;
 }
 
+
 footer a:hover {
-  text-decoration: none;
+  text-decoration: none; 
 }
 
 
