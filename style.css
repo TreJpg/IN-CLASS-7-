@@ -1,11 +1,48 @@
-/*Add your CSS here*/
 
+* {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  color: black;
+  font-size: 19px;
+}
 
+h1 {
+  font-size: 40px;
+}
 
+h2 {
+  color: lightblue;
+}
 
+img {
+  width: 100vw;
+  height: auto;
+}
 
+.cap {
+  color: black;
+}
 
+a:link {
+  color: lightblue;
+}
 
+a:visited {
+  color: grey;
+}
+
+a:hover {
+  color: indigo;
+}
+
+a:active{
+  color: grey;
+}
+
+footer a:hover {
+  text-decoration: none;
+}
 
 
 /*No touch*/
